@@ -1,7 +1,6 @@
 package com.health.sync.di
 
 import com.health.sync.data.HealthSyncRepositoryImpl
-import com.health.sync.data.HuaweiHealthManagerImpl
 import com.health.sync.data.MockHealthManager
 import com.health.sync.domain.HealthSyncManager
 import com.health.sync.domain.HealthSyncRepository
@@ -23,12 +22,6 @@ abstract class HealthSyncModule {
     companion object {
         @Provides
         @Singleton
-        fun provideHealthSyncManager(): HealthSyncManager {
-            return try {
-                HuaweiHealthManagerImpl()
-            } catch (_: Exception) {
-                MockHealthManager()
-            }
-        }
+        fun provideHealthSyncManager(): HealthSyncManager = MockHealthManager()
     }
 }

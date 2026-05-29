@@ -43,6 +43,5 @@ dependencies {
     // WorkManager
     implementation(libs.work.runtime)
 
-    // HMS Health (compileOnly for development without HMS SDK)
-    compileOnly(libs.hms.health)
+    // HMS Health SDK not available in local environment — using MockHealthManager
 }

@@ -18,7 +18,6 @@ coil = "2.7.0"
 camerax = "1.4.1"
 mlkitFoodDetection = "17.0.0"
 workManager = "2.10.0"
-hmsHealth = "7.1.0.300"
 timber = "5.0.1"
 junit = "5.11.3"
 turbine = "1.2.0"
@@ -77,9 +76,6 @@ mlkit-food-detection = { group = "com.google.mlkit", name = "food-detection", ve
 
 # WorkManager
 work-runtime = { group = "androidx.work", name = "work-runtime-ktx", version.ref = "workManager" }
-
-# Huawei Health
-hms-health = { group = "com.huawei.hms", name = "health-data-center", version.ref = "hmsHealth" }
 
 # Logging
 timber = { group = "com.jakewharton.timber", name = "timber", version.ref = "timber" }
