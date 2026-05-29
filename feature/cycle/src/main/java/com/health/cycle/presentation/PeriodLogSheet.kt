@@ -83,6 +83,7 @@ fun PeriodLogSheet(
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun DateRangePicker(
     startDate: LocalDate,

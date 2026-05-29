@@ -12,8 +12,7 @@ import javax.inject.Inject
 class HealthSyncRepositoryImpl @Inject constructor(
     private val healthSyncManager: HealthSyncManager,
     private val healthSyncRecordDao: HealthSyncRecordDao,
-    private val userDao: UserDao,
-    private val syncWorker: HealthSyncWorker.Factory // unused directly
+    private val userDao: UserDao
 ) : HealthSyncRepository {
 
     private var syncEnabled = false
@@ -26,7 +25,6 @@ class HealthSyncRepositoryImpl @Inject constructor(
         val result = healthSyncManager.requestAuth()
         if (result) {
             syncEnabled = true
-            HealthSyncWorker.schedule()
         }
         return result
     }
@@ -34,7 +32,6 @@ class HealthSyncRepositoryImpl @Inject constructor(
     override fun disconnect() {
         syncEnabled = false
         healthSyncManager.disconnect()
-        HealthSyncWorker.cancel()
     }
 
     override suspend fun syncNow(): Boolean {
