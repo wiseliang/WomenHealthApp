@@ -22,5 +22,6 @@ android {
 }
 
 dependencies {
+    implementation(project(":core:database"))
     implementation(libs.core.ktx)
 }
