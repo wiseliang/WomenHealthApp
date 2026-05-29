@@ -19,7 +19,7 @@ interface DailySymptomDao {
     @Query("SELECT * FROM daily_symptoms WHERE userId = :userId AND date BETWEEN :start AND :end ORDER BY date ASC")
     suspend fun getSymptomsInRange(userId: Long, start: LocalDate, end: LocalDate): List<DailySymptomEntity>
 
-    @Query("SELECT * FROM daily_symptoms WHERE userId = :userId ORDER BY date DESC LIMIT 60")
+    @Query("SELECT * FROM daily_symptoms WHERE userId = :userId ORDER BY date DESC LIMIT :limit")
     suspend fun getRecentSymptoms(userId: Long, limit: Int = 60): List<DailySymptomEntity>
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)

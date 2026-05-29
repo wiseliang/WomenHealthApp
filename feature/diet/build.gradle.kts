@@ -47,8 +47,9 @@ dependencies {
     implementation(libs.camerax.lifecycle)
     implementation(libs.camerax.view)
 
-    // ML Kit
-    implementation(libs.mlkit.food.detection)
+    // ML Kit not available in local mirrors — using manual food entry
+    // To enable AI recognition, add Google Maven repo and uncomment:
+    // implementation(libs.mlkit.food.detection)
 
     // Coil for photo display
     implementation(libs.coil.compose)
