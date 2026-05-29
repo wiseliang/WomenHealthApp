@@ -1,5 +1,6 @@
 package com.health.model
 
+import kotlinx.serialization.Serializable
 import java.time.LocalDate
 
 data class HormoneAssessment(
