@@ -205,12 +205,15 @@ private fun RecommendationCard(
                     Text(if (expanded) "收起详情" else "展开详情", fontSize = 13.sp)
                 }
                 if (expanded) {
-                    Text(
-                        recommendation.detailHtml.replace(Regex("<[^>]*>"), "")
-                            .replace(Regex("\\s+"), " "),
-                        style = MaterialTheme.typography.bodySmall,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
-                    )
+                    val html = recommendation.detailHtml
+                    if (html != null) {
+                        Text(
+                            html.replace(Regex("<[^>]*>"), "")
+                                .replace(Regex("\\s+"), " "),
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                    }
                 }
             }
 

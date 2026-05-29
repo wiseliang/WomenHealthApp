@@ -4,7 +4,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -32,7 +32,7 @@ fun MealConfirmationScreen(viewModel: DietViewModel = hiltViewModel()) {
                 title = { Text("确认食物") },
                 navigationIcon = {
                     IconButton(onClick = { viewModel.cancelAll() }) {
-                        Icon(ArrowBack, contentDescription = "返回")
+                        Icon(Icons.Filled.Close, contentDescription = "返回")
                     }
                 }
             )

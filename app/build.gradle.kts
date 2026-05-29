@@ -81,4 +81,10 @@ dependencies {
 
     // Core
     implementation(libs.core.ktx)
+
+    // Room (needed directly for DatabaseModule)
+    implementation(libs.room.runtime)
+
+    // Kotlinx Serialization (needed for Screen routes)
+    implementation(libs.kotlinx.serialization.json)
 }

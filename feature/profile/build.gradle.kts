@@ -24,6 +24,7 @@ dependencies {
     implementation(project(":core:database"))
     implementation(project(":core:datastore"))
     implementation(project(":core:common"))
+    implementation(project(":feature:healthsync"))
 
     implementation(platform(libs.compose.bom))
     implementation(libs.compose.ui)
