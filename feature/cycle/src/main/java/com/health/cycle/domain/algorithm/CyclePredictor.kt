@@ -58,8 +58,8 @@ class CyclePredictor {
 
         if (cycleLengths.size < MIN_CYCLES_FOR_PREDICTION) {
             return CyclePrediction(
-                predictedNextPeriodStart = lastPeriod.startDate.plusDays(28),
-                predictedNextPeriodEnd = lastPeriod.startDate.plusDays(28 + averagePeriodLength),
+                predictedNextPeriodStart = lastPeriod.startDate.plusDays(28L),
+                predictedNextPeriodEnd = lastPeriod.startDate.plusDays(28L + averagePeriodLength),
                 currentPhase = currentPhase,
                 cycleDayNow = cycleDayNow,
                 averageCycleLength = 28,
