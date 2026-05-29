@@ -1,9 +1,7 @@
 package com.health.model
 
-import kotlinx.serialization.Serializable
 import java.time.LocalDate
 
-@Serializable
 data class HealthSyncRecord(
     val id: Long = 0,
     val dataType: HealthDataType,
