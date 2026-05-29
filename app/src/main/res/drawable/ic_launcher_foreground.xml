@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Heart/health symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C54,30 48,18 38,18 C28,18 20,26 20,36 C20,52 54,72 54,72 C54,72 88,52 88,36 C88,26 80,18 70,18 C60,18 54,30 54,30Z" />
+    <!-- Small dot for ovulation -->
+    <path
+        android:fillColor="#FFB1C5"
+        android:pathData="M54,42 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+</vector>

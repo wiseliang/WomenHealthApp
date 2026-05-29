@@ -1,0 +1,242 @@
+[
+  {
+    "cyclePhase": "MENSTRUAL",
+    "category": "DIET",
+    "title": "补充铁质食物",
+    "summary": "经期失血导致铁元素流失，增加红肉、菠菜、黑木耳等富含铁的食物摄入。配合维生素C（如橙子、番茄）提高铁吸收率。",
+    "detailHtml": "<p>月经期间每天流失约30-40ml血液，对应约15-20mg铁元素流失。建议摄入：</p><ul><li>动物性铁：瘦红肉、动物肝脏、血制品（吸收率20-25%）</li><li>植物性铁：菠菜、黑木耳、红枣、黑芝麻（搭配维生素C提高吸收）</li><li>避免浓茶和咖啡与正餐同食（单宁酸抑制铁吸收）</li></ul>",
+    "citationKeys": "FRANKOVICH2016,RODRIGUEZ2009",
+    "priority": 1,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "MENSTRUAL",
+    "category": "EXERCISE",
+    "title": "温和运动为主",
+    "summary": "经期前2天可休息或进行瑜伽、散步等低强度活动。第3天后逐渐恢复中等强度运动。规律运动有助于缓解痛经。",
+    "detailHtml": "<p>运动建议：</p><ul><li>第1-2天：休息或散步15-20分钟、温和瑜伽（避免倒立体式）</li><li>第3-5天：快走、慢跑、轻度力量训练</li><li>运动通过释放内啡肽和改善盆腔血液循环缓解痛经</li></ul>",
+    "citationKeys": "DUGAS2019,JANSE2003",
+    "priority": 1,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "MENSTRUAL",
+    "category": "SLEEP",
+    "title": "保证充足睡眠",
+    "summary": "经期疼痛和不适可能影响睡眠质量。保持卧室凉爽（18-22°C），睡前温水泡脚可改善入睡。",
+    "detailHtml": "<p>改善经期睡眠：</p><ul><li>保持规律作息，尽量22:00-23:00入睡</li><li>使用热敷袋缓解腹部不适</li><li>睡前温水泡脚10-15分钟促进血液循环</li><li>避免咖啡因和酒精，它们会加重经期不适和影响睡眠</li></ul>",
+    "citationKeys": "BAKER2018,HURD2008",
+    "priority": 2,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "MENSTRUAL",
+    "category": "GENERAL",
+    "title": "注意保暖和情绪管理",
+    "summary": "经期体温略低，注意腹部和腰部保暖。情绪波动是正常生理反应，可通过正念冥想缓解。",
+    "detailHtml": "<p>自我关怀建议：</p><ul><li>穿着保暖，避免腹部受凉</li><li>使用暖宝宝或热敷缓解腹部不适</li><li>每天5-10分钟正念呼吸练习</li><li>接纳情绪波动的存在，不对自己施加压力</li></ul>",
+    "citationKeys": "STEINER2003",
+    "priority": 3,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "FOLLICULAR",
+    "category": "EXERCISE",
+    "title": "高强度训练最佳时期",
+    "summary": "卵泡期雌激素逐渐升高，促进肌肉合成和力量表现。此时是进行高强度间歇训练(HIIT)、大重量力量训练的最佳时机。",
+    "detailHtml": "<p>卵泡期是提升运动表现的黄金窗口：</p><ul><li>建议每周3-4次高强度训练：HIIT、力量训练、CrossFit等</li><li>雌激素促进糖原储存和蛋白合成，有助于肌肉恢复</li><li>体温处于相对较低水平，有利于耐力表现</li><li>疼痛耐受度较高，适合突破训练的平台期</li></ul>",
+    "citationKeys": "JANSE2003,OOSTHUYSE2010",
+    "priority": 1,
+    "applicableFitnessGoals": "fat_loss,muscle_gain"
+  },
+  {
+    "cyclePhase": "FOLLICULAR",
+    "category": "DIET",
+    "title": "碳水前置，支持训练强度",
+    "summary": "卵泡期肌肉糖原储存能力最强，配合高强度训练，适当增加复合碳水摄入（燕麦、糙米、红薯）。",
+    "detailHtml": "<p>营养策略：</p><ul><li>训练前2小时：全麦面包+香蕉提供持续能量</li><li>训练后30分钟内：蛋白质+碳水3:1比例补充（如乳清蛋白+燕麦奶）</li><li>每日碳水占总热量50-55%，优选低GI复合碳水</li><li>此阶段肌肉糖原合成效率最高，利于运动后恢复</li></ul>",
+    "citationKeys": "HACKNEY2018,RODRIGUEZ2009",
+    "priority": 1,
+    "applicableFitnessGoals": "muscle_gain,fat_loss"
+  },
+  {
+    "cyclePhase": "FOLLICULAR",
+    "category": "GENERAL",
+    "title": "精力充沛，适合目标冲刺",
+    "summary": "卵泡期是精神和体力状态最佳时期。利用这一阶段制定和执行新的训练计划，处理需要专注和创造力的工作。",
+    "detailHtml": "<p>充分利用卵泡期的身心状态：</p><ul><li>制定新的月度训练目标和计划</li><li>尝试新的运动项目或挑战</li><li>安排重要的工作项目和社交活动</li><li>雌激素对认知功能有积极影响，学习效率较高</li></ul>",
+    "citationKeys": "STEINER2003",
+    "priority": 2,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "FOLLICULAR",
+    "category": "SLEEP",
+    "title": "保持规律作息",
+    "summary": "卵泡期雌激素升高有助于改善睡眠质量，是建立良好睡眠习惯的有利时期。保持7-8小时睡眠，固定就寝和起床时间。",
+    "detailHtml": "<p>利用高质量睡眠期巩固习惯：</p><ul><li>就寝时间固定（建议22:30前）</li><li>晨间暴露于自然光10-15分钟调节生物钟</li><li>睡前1小时减少屏幕使用</li><li>此阶段入睡快、深度睡眠时间较长</li></ul>",
+    "citationKeys": "BAKER2018",
+    "priority": 2,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "OVULATORY",
+    "category": "EXERCISE",
+    "title": "力量峰值期",
+    "summary": "排卵期雌激素达到峰值，肌力和爆发力处于周期最高点。适合冲刺训练、力量测试和个人纪录挑战。注意充分热身，降低损伤风险。",
+    "detailHtml": "<p>排卵期训练策略：</p><ul><li>适合力量测试、1RM挑战和个人纪录</li><li>爆发力训练：冲刺跑、跳跃训练、爆发力举重</li><li>注意：雌激素高峰同时增加关节松弛度，充分热身和核心稳定训练很重要</li><li>训练后充分拉伸，减少肌肉酸痛</li></ul>",
+    "citationKeys": "JANSE2003,HACKNEY2018",
+    "priority": 1,
+    "applicableFitnessGoals": "muscle_gain"
+  },
+  {
+    "cyclePhase": "OVULATORY",
+    "category": "DIET",
+    "title": "均衡营养，维持高性能",
+    "summary": "代谢率升高，维持均衡宏量营养素比例。增加抗氧化食物（蓝莓、西兰花、坚果）对抗高强度训练的炎症反应。",
+    "detailHtml": "<p>排卵期营养要点：</p><ul><li>宏量营养素比例：碳水50%、蛋白30%、脂肪20%</li><li>富含抗氧化剂食物：莓果类、深绿色蔬菜、坚果</li><li>充足补水，高温环境下训练需额外补充电解质</li><li>Omega-3脂肪酸（三文鱼、核桃、亚麻籽）有助于抗炎</li></ul>",
+    "citationKeys": "RODRIGUEZ2009,KAMEMOTO2017",
+    "priority": 2,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "OVULATORY",
+    "category": "GENERAL",
+    "title": "关注身体信号",
+    "summary": "部分女性排卵期会出现轻微腹痛（排卵痛）、乳房胀痛。这是正常的生理反应，如症状持续加重建议就医检查。",
+    "detailHtml": "<p>排卵期常见身体变化：</p><ul><li>排卵痛（mittelschmerz）：单侧下腹轻微刺痛，持续数小时至1-2天</li><li>基础体温在排卵后升高0.3-0.5°C</li><li>宫颈黏液呈蛋清状，量多、透明、拉丝长</li><li>性欲增强是雌激素峰值的正常生理反应</li></ul>",
+    "citationKeys": "BIGELOW2004,WILCOX2000",
+    "priority": 3,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "OVULATORY",
+    "category": "SLEEP",
+    "title": "注意体温变化对睡眠的影响",
+    "summary": "排卵后基础体温升高约0.3-0.5°C，可能影响入睡。睡前保持卧室凉爽，可使用透气寝具。",
+    "detailHtml": "<p>体温升高期睡眠策略：</p><ul><li>卧室温度保持在18-22°C</li><li>选择透气性好的纯棉或亚麻床品</li><li>睡前温水淋浴（非热水），通过洗后体温下降帮助入睡</li><li>体温升高是排卵后孕激素的正常作用，无需担忧</li></ul>",
+    "citationKeys": "BARRON2009,BAKER2018",
+    "priority": 2,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "DIET",
+    "title": "增加复合碳水摄入",
+    "summary": "黄体期基础代谢率升高5-10%，食欲增加是正常现象。选择复合碳水化合物（全谷物、豆类、薯类），有助于稳定血糖和情绪。",
+    "detailHtml": "<p>黄体期饮食策略：</p><ul><li>RMR升高导致额外100-300千卡/天的能量需求</li><li>复合碳水：燕麦、糙米、藜麦、全麦面包、红薯</li><li>少食多餐（每日5-6餐）帮助控制食欲和血糖波动</li><li>增加色氨酸食物（牛奶、香蕉、火鸡）促进血清素合成</li><li>适当增加健康脂肪（牛油果、坚果、橄榄油）增加饱腹感</li></ul>",
+    "citationKeys": "SUNG2014,KAMEMOTO2017,BRENNAN2003",
+    "priority": 1,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "EXERCISE",
+    "title": "有氧运动为主，降低训练强度",
+    "summary": "黄体期核心体温升高，耐力可能下降。以中等强度有氧运动（慢跑、游泳、骑行）为主，减少极限强度训练。",
+    "detailHtml": "<p>黄体期运动调整：</p><ul><li>中等强度有氧：心率保持在最大心率60-75%，持续30-45分钟</li><li>适合：慢跑、游泳、椭圆机、普拉提、流瑜伽</li><li>减少HIIT和大重量训练（体温升高影响爆发力表现）</li><li>此阶段脂肪氧化率更高，中等强度有氧有利于脂肪消耗</li><li>注意补充水分，体温升高增加脱水风险</li></ul>",
+    "citationKeys": "JANSE2003,OOSTHUYSE2010",
+    "priority": 1,
+    "applicableFitnessGoals": "fat_loss,weight_loss"
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "SLEEP",
+    "title": "应对睡眠质量下降",
+    "summary": "黄体期孕激素升高可能影响睡眠质量。设置固定睡前放松程序（看书、冥想、温水浴），避免睡前剧烈运动。",
+    "detailHtml": "<p>提升黄体期睡眠质量：</p><ul><li>建立30分钟睡前放松仪式：阅读、冥想、轻柔伸展</li><li>避免睡前2小时剧烈运动（核心体温升高干扰入睡）</li><li>限制晚间咖啡因摄入，特别关注巧克力和茶中的咖啡因</li><li>如需午休，控制在20分钟以内、下午3点前</li><li>镁补充（200-300mg甘氨酸镁）可帮助改善睡眠质量</li></ul>",
+    "citationKeys": "BAKER2018,HURD2008",
+    "priority": 1,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "GENERAL",
+    "title": "管理经前综合征(PMS)症状",
+    "summary": "黄体期后期可能出现情绪低落、易怒、腹胀、乳房胀痛、食欲增加等PMS症状。规律运动、均衡饮食和充分休息是核心应对策略。",
+    "detailHtml": "<p>PMS管理建议：</p><ul><li>每周3-5次中等强度有氧运动，提升内啡肽水平</li><li>减少盐分摄入，缓解腹胀和水肿</li><li>增加钙和镁摄入（深绿色蔬菜、乳制品、坚果）</li><li>限制咖啡因和酒精，它们可能加重焦虑和情绪波动</li><li>严重PMS症状建议就医评估，排除经前焦虑症(PMDD)</li></ul>",
+    "citationKeys": "STEINER2003,BRENNAN2003",
+    "priority": 1,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "DIET",
+    "title": "肌肉增长窗口：增加蛋白质摄入",
+    "summary": "黄体期蛋白质氧化率升高，增肌训练者应将每日蛋白质摄入提高至1.8-2.2g/kg体重，有助于维持正氮平衡。",
+    "detailHtml": "<p>增肌期黄体期蛋白质策略：</p><ul><li>每公斤体重1.8-2.2g蛋白质/天</li><li>蛋白质来源：鸡胸肉、鱼、鸡蛋、乳清蛋白、豆腐</li><li>睡前30-60分钟摄入20-40g酪蛋白，利用夜间修复窗口</li><li>训练后30分钟内补充25-30g快速吸收蛋白（如乳清）</li></ul>",
+    "citationKeys": "TSAI2018,RODRIGUEZ2009",
+    "priority": 2,
+    "applicableFitnessGoals": "muscle_gain"
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "EXERCISE",
+    "title": "利用脂肪氧化优势减脂",
+    "summary": "黄体期脂肪氧化率显著升高，是中等强度有氧运动减脂的最佳时期。建议每周4-5次、每次40-60分钟的中等强度有氧运动。",
+    "detailHtml": "<p>减脂/减重期黄体期策略：</p><ul><li>每周4-5次中等强度有氧：快走、慢跑、椭圆机、动感单车</li><li>心率控制在最大心率60-70%（脂肪氧化最优区间）</li><li>空腹有氧需谨慎（此阶段血糖波动大），建议餐后1小时运动</li><li>结合轻度力量训练保持肌肉量</li><li>注意饥饿感会增加，准备健康零食（黄瓜、小番茄、希腊酸奶）</li></ul>",
+    "citationKeys": "OOSTHUYSE2010,SUNG2014",
+    "priority": 1,
+    "applicableFitnessGoals": "fat_loss,weight_loss"
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "DIET",
+    "title": "减脂期控制热量缺口策略",
+    "summary": "黄体期食欲增加是生理性的。减脂期建议将热量缺口控制在200-300千卡（而非激进500+），避免因饥饿感导致暴食。",
+    "detailHtml": "<p>黄体期减脂饮食策略：</p><ul><li>每日热量缺口控制在200-300千卡（温和减脂）</li><li>增加膳食纤维摄入（魔芋、奇亚籽、蔬菜）增加饱腹感</li><li>高蛋白饮食（蛋白质>35%总热量）有助于抑制食欲</li><li>允许适度"自由餐"（每周1-2餐），但控制总量</li><li>记录饮食日志，提升自我觉察</li></ul>",
+    "citationKeys": "KAMEMOTO2017,SUNG2014",
+    "priority": 2,
+    "applicableFitnessGoals": "fat_loss,weight_loss"
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "SLEEP",
+    "title": "增肌期优化睡眠促进恢复",
+    "summary": "黄体期睡眠质量下降可能影响肌肉恢复和生长激素分泌。确保7-9小时睡眠、睡前补充镁和甘氨酸可改善恢复效率。",
+    "detailHtml": "<p>增肌期黄体期睡眠优化：</p><ul><li>目标7-9小时睡眠（此阶段身体修复需求更高）</li><li>睡前30分钟补充200-300mg甘氨酸镁</li><li>睡前一小时热水浴，通过体温下降效应促进深度睡眠</li><li>夜间环境完全遮光（促进褪黑素分泌）</li><li>睡眠不足会降低睾酮和IGF-1水平，直接影响增肌效果</li></ul>",
+    "citationKeys": "HURD2008,BAKER2018",
+    "priority": 2,
+    "applicableFitnessGoals": "muscle_gain"
+  },
+  {
+    "cyclePhase": "LUTEAL",
+    "category": "GENERAL",
+    "title": "关注皮肤变化",
+    "summary": "黄体期孕激素升高刺激皮脂分泌，可能导致痤疮加重（经前痤疮）。温和清洁、避免挤压、保持水分摄入。",
+    "detailHtml": "<p>黄体期皮肤护理：</p><ul><li>温和洁面，每天2次，避免过度清洁刺激油脂分泌</li><li>使用含水杨酸或壬二酸的护肤品（遵医嘱）</li><li>每天饮水1.5-2升</li><li>减少高GI食物（精制糖、白面包），它们可能加重炎症和痤疮</li><li>充足睡眠是最好的皮肤修复时间</li></ul>",
+    "citationKeys": "ARCK2006",
+    "priority": 3,
+    "applicableFitnessGoals": null
+  },
+  {
+    "cyclePhase": "FOLLICULAR",
+    "category": "EXERCISE",
+    "title": "减脂期利用高代谢窗口",
+    "summary": "卵泡期是代谢效率最高的时期，减脂计划可安排较高强度的训练。晨起空腹有氧在此阶段效果较佳（需根据个人感受调整）。",
+    "detailHtml": "<p>卵泡期减脂策略：</p><ul><li>每周2-3次HIIT（20-30分钟），利用代谢后燃效应</li><li>晨起空腹低强度有氧（快走/慢跑）30-40分钟</li><li>力量训练采用中高重量、中高次数组合，保持肌肉量</li><li>此阶段能量感和动力较高，充分利用保持训练一致性</li></ul>",
+    "citationKeys": "JANSE2003,HACKNEY2018",
+    "priority": 1,
+    "applicableFitnessGoals": "fat_loss,weight_loss"
+  },
+  {
+    "cyclePhase": "FOLLICULAR",
+    "category": "DIET",
+    "title": "增肌期碳水循环最佳时期",
+    "summary": "卵泡期胰岛素敏感性最高，是进行碳水循环增肌的理想时期。训练日高碳水（4-5g/kg），休息日低碳水（2-3g/kg）。",
+    "detailHtml": "<p>卵泡期增肌碳水策略：</p><ul><li>训练日：碳水4-5g/kg体重，以复合碳水为主</li><li>休息日：碳水2-3g/kg体重，增加膳食纤维</li><li>蛋白质保持恒定1.6-2.0g/kg体重</li><li>此阶段糖原储存效率最高，训练后碳水利用效率最佳</li></ul>",
+    "citationKeys": "HACKNEY2018,RODRIGUEZ2009",
+    "priority": 1,
+    "applicableFitnessGoals": "muscle_gain"
+  },
+  {
+    "cyclePhase": "MENSTRUAL",
+    "category": "GENERAL",
+    "title": "暂停增肌期高强度训练",
+    "summary": "经期前两天（尤其是经量多的日子）建议暂停最高强度的力量训练，以中等强度训练或休息为主。肌肉酸痛感可能加重。",
+    "detailHtml": "<p>经期训练调整：</p><ul><li>第1-2天：轻量训练（50-60%正常重量）或完全休息</li><li>第3天起逐步恢复正常训练重量</li><li>经期不必完全中断训练，但需聆听身体信号</li><li>注意：此阶段肌肉酸痛感和疲劳感可能增加属正常现象</li><li>保证训练后充分的拉伸和营养补充</li></ul>",
+    "citationKeys": "JANSE2003,DUGAS2019",
+    "priority": 2,
+    "applicableFitnessGoals": "muscle_gain"
+  }
+]
