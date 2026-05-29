@@ -8,6 +8,7 @@ import androidx.camera.view.PreviewView
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -41,7 +42,7 @@ fun MealCaptureScreen(viewModel: DietViewModel = hiltViewModel()) {
                 title = { Text("拍照记录") },
                 navigationIcon = {
                     IconButton(onClick = { viewModel.cancelAll() }) {
-                        Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "返回")
+                        Icon(ArrowBack, contentDescription = "返回")
                     }
                 }
             )
